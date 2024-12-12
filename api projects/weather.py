@@ -1,5 +1,6 @@
 import requests
 
+#Entering base URL
 base_url = "http://api.weatherstack.com/current?"
 
 
