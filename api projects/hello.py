@@ -1,1 +1,1 @@
-print('hello world')
+print('hello world this was my first commit from terminal')
